@@ -1,0 +1,17 @@
+.skill-title {
+    color: #ffb6c1;
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 0.2rem;
+}
+/* SVG icon color override for rose light pink */
+.skill-icon svg path,
+.skill-icon svg ellipse,
+.skill-icon svg rect,
+.skill-icon svg circle {
+    fill: #fa5a72 !important;
+    stroke: #f7657b !important;
+}
+.skill-icon svg text {
+    fill: #e3c0f9 !important;
+} 
